@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Camel {
     public static void main(String[] args)
     {
-     System.out.println("Plz enter iny String");
+     System.out.println("Plz enter any String");
      Scanner sc = new Scanner(System.in);  
      String str =  sc.nextLine();
      char ch1;
